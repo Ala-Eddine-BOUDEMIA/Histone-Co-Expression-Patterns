@@ -75,7 +75,6 @@ cd Histone-Coexpression
 pip install -r requirements.txt
 ```
 
-# R dependencies can be installed via the init_data.R script
 2. Data Preparation
 
 Raw data was sourced from the recount2 project. The initial processing step converts per-base coverage to read counts.
